@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SG_ID="sg-0ad68f2eb99a23c71" # replace with your ID
+SG_ID="sg-0ad68f2eb99a23c71"
 AMI_ID="ami-0220d79f3f480ecf5"
 ZONE_ID="Z0186752UQ0KCUG32F05"
 DOMAIN_NAME="daws20s.online"
