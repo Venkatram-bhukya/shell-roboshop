@@ -1,8 +1,8 @@
 #!/bin/bash
 
-SG_ID="sg-0ad68f2eb99a23c71"
+SG_ID="sg-0eeed8fab0c866f94"
 AMI_ID="ami-0220d79f3f480ecf5"
-ZONE_ID="Z0186752UQ0KCUG32F05"
+ZONE_ID="Z01579573ROS4DELOIRQS"
 DOMAIN_NAME="daws20s.online"
 
 for instance in $@
